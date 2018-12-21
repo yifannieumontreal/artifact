@@ -16,8 +16,8 @@ This in the implementation of the representation- and interaction-based Multi-le
 ### Configure: There are 2 types of models, one is representation-based model, the other is interaction-based model
 first, configure the hyperparameter through the config file, a sample is provided
 
-[sample_rep.config](https://github.com/yifannieumontreal/artifact)
-[sample_inter.config]()
+[sample_rep.config](https://github.com/yifannieumontreal/artifact/blob/master/sample_inter.config)
+[sample_inter.config](https://github.com/yifannieumontreal/artifact/blob/master/sample_rep.config)
 
 A folder for saving models should be created on local disk and should contain the config file and 4 sub-folders:
 
